@@ -1,4 +1,4 @@
-# Nome do Projeto
+# reqsh
 
 A lightweight CLI API client built with Java, Picocli, and Jackson.
 
